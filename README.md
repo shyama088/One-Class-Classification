@@ -12,6 +12,9 @@ Work Flow  :
 6. Predicting output of test data
 7. Evaluating the model
 
+Data : https://drive.google.com/drive/folders/1VAMbO8ATYSLL1oXPzH45DXC-iu1vQLQU?usp=sharing
+
+
 ![image](https://user-images.githubusercontent.com/59326106/126240277-a71c29e9-37c8-4774-b75c-7b69f9fb7845.png)
 
 
