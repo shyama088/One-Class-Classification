@@ -1,7 +1,7 @@
 # One-Class-Classification
 
 The objective of this project is to classify if a given image is an apple (any object in general).
-The train dataset has images of only one class (here apple). 
+The train dataset has images of only one class (here apple(s)). 
 
 Work Flow  :
 1. Importing packages and reading the dataset
