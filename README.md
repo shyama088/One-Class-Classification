@@ -12,6 +12,9 @@ Work Flow  :
 6. Predicting output of test data
 7. Evaluating the model
 
+![image](https://user-images.githubusercontent.com/59326106/126240277-a71c29e9-37c8-4774-b75c-7b69f9fb7845.png)
+
+
 References : 
 1. https://en.wikipedia.org/wiki/One-class_classification
 2. https://ayush-iitkgp.github.io/posts/one-class-classification-algorithms/
