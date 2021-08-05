@@ -25,3 +25,4 @@ References :
 4. https://github.com/mdbloice/Augmentor
 5. https://stackoverflow.com/questions/19551858/which-algorithms-to-use-for-one-class-classification
 6. https://stats.stackexchange.com/questions/192530/metrics-for-one-class-classification
+7. https://www.kaggle.com/paperboiii/one-class-classification-for-images
